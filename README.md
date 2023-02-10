@@ -9,3 +9,5 @@ This repo contains examples for a series of articles related to data structures 
     - [Using Objects](./stack/stack-object.js)
 2.  Queue
     - [Normal Queue](./queue/normal-queue.js)
+    
+3. 
